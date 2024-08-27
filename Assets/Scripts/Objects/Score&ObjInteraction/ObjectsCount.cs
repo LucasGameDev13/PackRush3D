@@ -92,7 +92,6 @@ public class ObjectsCount : MonoBehaviour
                     isPicked = false;
                     spawnerController.IsSpawned = false;
                     compassController.IsTarget = false;
-                    Debug.Log("Entraga realizada");
                 }
             }
         }
@@ -118,7 +117,6 @@ public class ObjectsCount : MonoBehaviour
             isPicked = false;
             spawnerController.IsSpawned = false;
             compassController.IsTarget = false;
-            Debug.Log("Entraga não realizada");
         }
     }
 }

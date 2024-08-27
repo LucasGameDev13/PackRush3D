@@ -433,11 +433,11 @@ MonoBehaviour:
     within the allotted time. For each successful delivery, you'll receive a payment.
     However, if the deadline isn\u2019t met, a penalty will be deducted.\n\nYou\u2019ll
     have a total time limit to complete as many deliveries as possible. We\u2019re
-    providing you with a company vehicle, which you can control as follows:\n\nA
-    - Left\nD - Right\nS - Reverse\nAdditionally, you can use the GPS system to locate
-    the packages and delivery points.\n\nAttention: Watch out for other cars on the
-    road! Avoid collisions, as each one will result in a financial penalty.\n\nShall
-    we begin? Good luck!"
+    providing you with a company vehicle, which you can control as follows:\n\nW
+    - Speed\nA - Left\nD - Right\nS - Reverse\nAdditionally, you can use the GPS
+    system to locate the packages and delivery points.\n\nAttention: Watch out for
+    other cars on the road! Avoid collisions, as each one will result in a financial
+    penalty.\n\nShall we begin? Good luck!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -464,8 +464,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 20.4
+  m_fontSizeBase: 20.4
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1595,10 +1595,11 @@ MonoBehaviour:
     No entanto, se o prazo n\xE3o for cumprido, um valor ser\xE1 descontado.\n\nVoc\xEA
     ter\xE1 um tempo total para realizar o m\xE1ximo de entregas poss\xEDvel. Estamos
     disponibilizando o ve\xEDculo da nossa empresa, e voc\xEA poder\xE1 control\xE1-lo
-    da seguinte forma:\n\nA - Esquerda\nD - Direita\nS - R\xE9\nAl\xE9m disso, voc\xEA
-    pode utilizar o sistema de GPS para localizar as encomendas e os pontos de entrega.\n\nAten\xE7\xE3o:
-    Cuidado com os carros nas ruas! Evite colis\xF5es, pois cada batida resultar\xE1
-    em uma penalidade financeira.\n\nVamos come\xE7ar? Boa sorte!"
+    da seguinte forma:\n\nW - Acelera\xE7\xE3o\nA - Esquerda\nD - Direita\nS - R\xE9\nAl\xE9m
+    disso, voc\xEA pode utilizar o sistema de GPS para localizar as encomendas e
+    os pontos de entrega.\n\nAten\xE7\xE3o: Cuidado com os carros nas ruas! Evite
+    colis\xF5es, pois cada batida resultar\xE1 em uma penalidade financeira.\n\nVamos
+    come\xE7ar? Boa sorte!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1625,8 +1626,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 19.4
+  m_fontSizeBase: 19.4
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

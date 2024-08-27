@@ -77,7 +77,7 @@ public class Mover : MonoBehaviour
 
         float horizontal = Input.GetAxisRaw("Horizontal");
         transform.Translate(new Vector3(0, 0, speed * Time.deltaTime));
-        transform.Rotate(new Vector3(0, horizontal * 1.5f, 0));
+        transform.Rotate(new Vector3(0, horizontal * 1.1f, 0));
     }
 
     private void OnTriggerEnter(Collider other)
